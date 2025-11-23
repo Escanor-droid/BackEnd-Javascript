@@ -1,1 +1,1 @@
-this is my learning with javascript an backend
+this is my learning with javascript and backend
